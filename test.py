@@ -1,1 +1,3 @@
-print("hello world")
+name = "hyewonPark"
+for i in name:
+    print(i)
